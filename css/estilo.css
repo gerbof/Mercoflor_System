@@ -1,0 +1,24 @@
+.tabulacion{
+    margin-left: 30px;
+}
+.tabulacion2{
+    margin-left: 60px;
+}
+.tabulacion3{
+    margin-left: 90px;
+}
+
+p { width:800px }
+h4 ,h1{text-decoration:underline;}
+pre {
+    background: none repeat scroll 0 0 #fcfcfc;
+    display: block;
+    font-family: Menlo,Consolas,"Courier New",Courier,mono;
+    font-size: 10pt;
+    margin: 1em 0;
+    padding: 1em;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+	outline: 0 none;
+    vertical-align: baseline;
+}
